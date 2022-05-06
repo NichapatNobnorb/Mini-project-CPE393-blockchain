@@ -1,1 +1,2 @@
-# Mini-project-CPE393-blockchain
+# Mini-project-blockchain
+CPE393
